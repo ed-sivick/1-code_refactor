@@ -1,0 +1,149 @@
+/*reset container size, margin, & padding*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/*background color of web page*/
+body {
+    background-color: #d9dcd6;
+}
+
+/*header properties*/
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/*Horiseon <h1> tag properties*/
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/*h1 header color for "seo"*/
+.header h1 .seo {
+    color: #d9dcd6;
+}
+
+/*header div properties of <ul>*/
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/*header div properties of <ul>*/
+.header div ul {
+    list-style-type: none;
+}
+
+/*div properties of <li> items within <ul>*/
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/*text properties of <ul> <a> elements*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*text size of <p> elements*/
+p {
+    font-size: 16px;
+}
+
+/*hero class div image properties*/
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/*float-left class content image properties*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/*content class div properties*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/*content-type class div properties*/
+.content-type {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/*content-type class image height*/
+.content-type img {
+    max-height: 200px;
+}
+
+/*content-type class <h2> properties*/
+.content-type h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*benefits class div properties*/
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/*benefit-type class div properties*/
+.benefit-type {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/*benefit-type class <h3> properties*/
+.benefit-type h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/*benefit-type class image properties*/
+.benefit-type img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/*footer class properties*/
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+/*footer class <h2> font size*/
+.footer h2 {
+    font-size: 20px;
+}

@@ -15,7 +15,7 @@ ___
 **The following items were added/changed to increase search engine optimization (SEO)**
 - **meta** tag: title and content containing descriptive Horiseon website related terms.
 - **title** tag: was given more descriptive text for Horiseon.
-- Semantic elements were added: **main, section, aside, and footer**.
+- Semantic elements were added: **main, header, section, and footer**.
 
 **The following items were added/changed to provide a better flow and structure to the website, or correct the code**
 - Added **id="search-engine-optimization"** to the **div** tag to redirect user to the search engine optimization section of the page. 

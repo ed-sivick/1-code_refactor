@@ -25,7 +25,7 @@ ___
 ___
 
 ## CSS Refactoring Changes
-- The **.float-right** selector was removed since all images in the "content" **div** class were changed to **.float-left**
+- The **.float-right** selector was removed since all images in the **content div** class were changed to **.float-left**
 - Three **.content-type** selectors were created to consolidate redundant properties of other associated selectors.
 - Three **.benefit-type** selectors were created to consolidate redundant properties of other associated selectors.
 - The **.content-type img** selector was given a width property of **300px** to show visual consistency for the three images in the **content div** class.

@@ -93,9 +93,10 @@ p {
     color: #ffffff;
 }
 
-/*content-type class image height*/
+/*content-type class image height and width*/
 .content-type img {
     max-height: 200px;
+    width: 300px;
 }
 
 /*content-type class <h2> properties*/

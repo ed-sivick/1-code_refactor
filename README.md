@@ -11,6 +11,7 @@ ___
 - **alt** attributes were added for the three images in the **content div** class to provide a description for each.
 - **alt** attributes were added for the three images in the **benefit-type div** class to provide a description for each.
 - A title was added to the **hero div** to provide a description of the background image.
+- The **h3** tags text in the **benefit-type div** class were changed to **h2**, making them more readable for the visually impaired.
 
 **The following items were added/changed to increase search engine optimization (SEO)**
 - **meta** tag: title and content containing descriptive Horiseon website related terms.
@@ -29,9 +30,12 @@ ___
 - Three **.content-type** selectors were created to consolidate redundant properties of other associated selectors.
 - Three **.benefit-type** selectors were created to consolidate redundant properties of other associated selectors.
 - The **.content-type img** selector was given a width property of **300px** to show visual consistency for the three images in the **content div** class.
+- The font size for the **.header div** selector was changed to 24px, making the text more readable for the visually impaired.
+- The **p** selector font-size was changed to 24px, making the text more readable for the visually impaired.
+- The **.benefit-type h3** selector was changed to **.benefit-type h2**, making the text more readable for the visually impaired.
 - Some selectors were moved to better follow the layout of the HTML elements.
 - Comments were included to add clarity.
 ___
 ## Summary
-Accessibility has an important role in web development. Developers are obligated to include features that allow disabled individuals to have the same access to content as those who are non-disabled.  The use of **alt** attributes, and creating pages that follow an orderly visual structure improve all users experience.
+Accessibility has an important role in web development. Developers are obligated to include features that allow disabled individuals to have the same access to content as those who are non-disabled.  The use of **alt** attributes; using a font size that is readable for those who may be visually impaired; and creating pages that follow an orderly visual structure improve all users experience.
 Search engine optimization (SEO) practices can also increase the volume of users to the website.  Adding more descriptive terms in elements such as **title**  and **meta** tags can accomplish this.  Users searching for similar descriptive content that the website provides will more likely be directed to it.

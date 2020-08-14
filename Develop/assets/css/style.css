@@ -35,7 +35,7 @@ body {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 /*header div properties of <ul>*/
@@ -57,7 +57,7 @@ a {
 
 /*text size of <p> elements*/
 p {
-    font-size: 16px;
+    font-size: 24px;
 }
 
 /*hero class div image properties*/
@@ -124,7 +124,7 @@ p {
 }
 
 /*benefit-type class <h3> properties*/
-.benefit-type h3 {
+.benefit-type h2 {
     margin-bottom: 10px;
     text-align: center;
 }

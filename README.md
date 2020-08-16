@@ -14,7 +14,7 @@ ___
 - The **h3** tags text in the **benefit-type div** class were changed to **h2**, making them more readable for the visually impaired.
 
 **The following items were added/changed to increase search engine optimization (SEO)**
-- **meta** tag: title and content containing descriptive Horiseon website related terms.
+- **meta** tag: name and content containing descriptive Horiseon website related terms.
 - **title** tag: was given more descriptive text for Horiseon.
 - Semantic elements were added: **main, header, section, and footer**.
 
